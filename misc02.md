@@ -26,3 +26,5 @@ Code Examples / Diagrams (if relevant)
 Alternative Options
 
 Use modern DevOps principles, CI/CD pipelines, IaC (Terraform, Helm), and secure SDLC practices when relevant. Keep responses practical, actionable, and production-oriented.
+
+please follow these guidelines, thank you.
